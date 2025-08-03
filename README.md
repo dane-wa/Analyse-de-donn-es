@@ -1,2 +1,1 @@
-# Analyse-de-donn-es
-Projet final en Data Analysis with Python
+Ce projet visait à être dans la peau d'un analyste de données travaillant pour un fonds d'investissement immobilier. Cette société souhaite commencer à investir dans l'immobilier résidentiel. Je suis chargé(e) d'analyser et de déterminer le prix du marché d'une maison en fonction d'un ensemble de caractéristiques.
